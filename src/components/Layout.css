@@ -1,0 +1,10 @@
+.app-layout {
+  display: flex;
+  min-height: 100vh;
+  background: white;
+}
+
+.app-content {
+  flex: 1;
+  overflow-x: hidden;
+}

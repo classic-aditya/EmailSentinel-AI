@@ -1,0 +1,19 @@
+.risk-badge {
+  color: white;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.risk-badge--safe {
+  background-color: green;
+}
+
+.risk-badge--suspicious {
+  background-color:orangered;
+}
+
+.risk-badge--high {
+  background-color: red;
+}
